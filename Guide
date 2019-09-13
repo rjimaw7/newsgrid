@@ -1,0 +1,12 @@
+TO EDIT YOUR WEBSITE FIRST 
+
+-- GO TO YOUR WEBSITE FOLDER
+-- RIGHT CLICK " GIT BASH HERE "
+-- TYPE git add . > git commit -m 'Updated Form' > git push
+
+-- Once website was updated
+
+- Go to netlify https://app.netlify.com/sites/affectionate-bell-256304/overview
+
+To check your domain go to https://www.namecheap.com/?_ga=2.110488579.704870573.1568400820-794385589.1568400820
+
